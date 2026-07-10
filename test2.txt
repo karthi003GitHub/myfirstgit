@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-git my second testing to main pushing to maingit
-=======
 my test2 to main test2
->>>>>>> mymain
